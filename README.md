@@ -12,3 +12,7 @@ View- this button is for viewing certain items by clicking on it , once viewed ,
  Update- This button is used to update or modify informations. It will allow you to make changes inside the system.
 
  Search - this used to search items using its description or name. It will allow you to easily find certain products from the system
+ 
+Username: rozon@gmail.com 
+Password: 123654
+
